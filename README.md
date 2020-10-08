@@ -4,8 +4,8 @@ This web app predicts the species of penguins as a function of their input param
 
 The web app was built in Python using the following libraries:
 
- streamlit
- pandas
- numpy
- scikit-learn
- pickle
+ -streamlit
+ -pandas
+ -numpy
+ -scikit-learn
+ -pickle
