@@ -13,3 +13,8 @@ The web app is built in Python using the following libraries:
  -scikit-learn
  
  -pickle
+
+## Algorithm:
+
+### RandomForestClassifier
+I have used RandomForestClassifier for modal training.
